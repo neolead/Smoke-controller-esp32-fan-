@@ -8,6 +8,9 @@
 This project is a comprehensive solution for controlling fans using an ESP32 microcontroller, a web-based interface, and a Python script for advanced monitoring and control. It integrates hardware control with software automation, making it suitable for server rooms, ventilation systems, or any environment requiring precise fan management.
 
 ---
+![image](https://github.com/user-attachments/assets/4928cc0f-e151-4503-821c-d72504cce192)
+![image](https://github.com/user-attachments/assets/bfa2b04b-254c-4036-9187-f71b7c17b787)
+
 
 ### **ESP32 Part (Microcontroller)**
 
